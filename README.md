@@ -1,2 +1,2 @@
-# Cisco-2500-WLC-Configuration-For-Labs
-Configuration guide for Cisco 2500 Series Wireless Lan Controllers (WLC) designed to be used in a networking lab
+# Cisco 2504 WLC Configuration Files
+Information about this project can be found here: https://stuenkels.github.io/posts/2504-configuration.html
